@@ -1,0 +1,15 @@
+.menu {
+    background-color: deepskyblue;
+    height: 50px;
+    width: 500px;
+}
+
+.menu-unfold {
+    background-color: deepskyblue;
+    width: 500px;
+    height: 500px;
+}
+
+.rules {
+    margin-bottom: 500px;
+}
